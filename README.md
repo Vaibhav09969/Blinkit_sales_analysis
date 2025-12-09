@@ -42,12 +42,6 @@ The analysis delivers critical insights by addressing core business questions:
 * `Blinkit SQL analysis.sql`: This is the main file containing all the documented SQL code, covering data cleaning, KPI calculation, and all detailed analytical queries.
 * `[Original Data File Name]`: (Optional: Include the original data file if you are allowed to share it.)
 
-## Screenshots / Examples
-
-*(Include a placeholder tag here. You will replace this with an actual image in GitHub.)*
-
-
-
 ## Author / Contact
 
 * **Author:** [Your Full Name]
