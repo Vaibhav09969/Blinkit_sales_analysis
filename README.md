@@ -48,4 +48,4 @@ The core of the project involved segmented analysis to diagnose performance driv
 * **Data Focus:** E-commerce Sales/Retail Analytics.
 
 ---
-*Developed by [Your Name/GitHub Username]*
+*Developed by Vaibhav Sabale*
