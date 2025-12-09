@@ -1,8 +1,8 @@
-# 📈 Blinkit E-commerce Sales Performance Analysis
+# 📈 Blinkit Sales Analysis
 
 ## Project Title
 
-**Blinkit E-commerce Sales Performance Analysis using Advanced SQL**
+**Blinkit Sales Analysis using SQL**
 
 ## Description
 
@@ -40,11 +40,3 @@ The analysis delivers critical insights by addressing core business questions:
 ## File Descriptions
 
 * `Blinkit SQL analysis.sql`: This is the main file containing all the documented SQL code, covering data cleaning, KPI calculation, and all detailed analytical queries.
-* `[Original Data File Name]`: (Optional: Include the original data file if you are allowed to share it.)
-
-## Author / Contact
-
-* **Author:** [Your Full Name]
-* **GitHub:** [Your GitHub Profile Link]
-* **LinkedIn:** [Your LinkedIn Profile Link]
-* **Email:** [Your Professional Email Address]
